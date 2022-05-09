@@ -1,0 +1,114 @@
+body {
+    color: white;
+    text-align: center;
+    font-family: 'Staatliches', sans-serif;
+    background-color: green;
+}
+
+.title {
+    font-size: 20px;
+    background-color: darkred;
+    font-weight: 800;
+    padding: 0 20px;
+}
+
+p {
+    font-size: 30px;
+    font-weight: 800;
+}
+
+.firstchoose {
+    display: flex;
+    justify-content: space-around;
+    padding: 50px;
+}
+
+.oneperson {
+    height: 350px;
+    width: 350px;
+}
+
+.secondchoose {
+    display: flex;
+    justify-content: space-around;
+    padding: 50px;
+}
+
+.apple {
+    display:none;
+    height: 350px;
+    width: 350px;
+}
+
+.weapon {
+    display:none;
+    height: 350px;
+    width: 350px;
+}
+
+.fish {
+    display:none;
+    height: 350px;
+    width: 350px;
+}
+
+.cat {
+    display:none;
+    height: 350px;
+    width: 350px;
+}
+
+.button {
+    height: 40px;
+    display: flex;
+    justify-content: space-around;
+}
+
+.second-button {
+    display: none;
+}
+
+.csecond-button {
+    display: none;
+}
+
+.psecond-button {
+    display: none;
+
+}
+
+/* Check out `display:none`. What do you think it does?*/
+.treasure {
+    display: none;
+    font-family: 'Coiny', cursive;
+}
+
+.treasure-img {
+    height: 300px;
+}
+
+.firstImage {
+    display: none;
+    height: 350px;
+}
+
+.pfirstImage {
+    display: none;
+    height: 350px;
+}
+
+.pcfirstImage {
+    display: none;
+    height: 350px;
+}
+
+h1 {
+    font-size: 50px;
+}
+
+.question-1 {}
+
+h3 {
+    background-color: skyblue;
+    color: purple;
+}
